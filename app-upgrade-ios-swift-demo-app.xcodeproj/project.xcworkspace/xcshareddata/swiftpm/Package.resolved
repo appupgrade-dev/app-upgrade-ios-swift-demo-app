@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "app-upgrade-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/appupgrade-dev/app-upgrade-ios-sdk.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "df39b9968d60b11fec263bc19870bb9753050b4b"
+      }
+    }
+  ],
+  "version" : 2
+}
