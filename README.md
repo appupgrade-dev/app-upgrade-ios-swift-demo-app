@@ -6,7 +6,7 @@
 
 To get started, clone the repo:
 
-`$ git clone https://github.com/appupgrade-dev/app_upgrade_android_kotlin_demo_app`
+`$ git clone https://github.com/appupgrade-dev/app-upgrade-ios-swift-demo-app`
 
 ## Setup
 
