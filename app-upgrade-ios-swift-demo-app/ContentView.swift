@@ -20,7 +20,8 @@ struct ContentView: View {
                 appName: "Wallpaper app",
                 appVersion: "1.0.0",
                 platform: "ios",
-                environment: "production"
+                environment: "production",
+                appLanguage: "es" //Optional
             )
             
             // Optional
