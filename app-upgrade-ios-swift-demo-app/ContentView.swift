@@ -21,7 +21,11 @@ struct ContentView: View {
                 appVersion: "1.0.0",
                 platform: "ios",
                 environment: "production",
-                appLanguage: "es" //Optional
+                appLanguage: "es", //Optional
+                // customAttributes: [
+                //     "os": 12,
+                //     "country": "IN"
+                // ]
             )
             
             // Optional
